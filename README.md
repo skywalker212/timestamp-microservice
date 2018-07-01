@@ -4,6 +4,8 @@
 
 Made using Glitch. Take this challange, code it in less than an hour. Compare your code after you finish, raise an issue if you do better.
 
+checkout the API [here](https://picayune-rattlesnake.glitch.me/)
+
 ## Gettin' Started
 
 - clone this repo using ```git clone```
